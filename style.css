@@ -1,0 +1,19 @@
+body{
+    color: white;
+    background-image: linear-gradient(to right top, #eb81e4, #c746be,#9f7fda ,#69d686, #7ab2ca);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed rgb(119, 14, 119);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy{
+    color: royalblue;
+}
